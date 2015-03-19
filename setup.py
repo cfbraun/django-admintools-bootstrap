@@ -13,7 +13,7 @@ install_requires = [
 
 setup(
     name='django-admintools-bootstrap',
-    version=':versiontools:admintools_bootstrap:',
+    version='0.0.1a1+gag',
     author='Dmitry Belyaev',
     author_email='ssalvator@gmail.com',
     url='https://bitbucket.org/salvator/django-admintools-bootstrap',
